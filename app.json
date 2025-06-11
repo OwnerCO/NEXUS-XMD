@@ -11,7 +11,7 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "nexus~1jFAhaxJ#1gxFTtz31rTJYxcoAm0t7KFcd4OCc2uPWiy3ZwJvjho",
+      "description": "nexus~s6kn1TjK#fHUAZ-a8rXlqasQYlnSYTs5pwFdVlI24LMQm-hpMIxE",
       "required": true,
       "value": ""
     },  
